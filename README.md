@@ -11,10 +11,10 @@ This repo contains the code and data of the following paper:
 - Numpy
 
 ## Quick Start
-Run mu_Forcing.ipynb for 
-- Training: Run util.fit(train_dir='Models/') in mu_Forcing.ipynb
-- Testing: Run util.test() in mu_Forcing.ipynb 
-- Generating Run model.generate() in mu_Forcing.ipynb 
+Run `mu_Forcing.ipynb` for 
+- Training: Run `util.fit(train_dir='Models/')` in `mu_Forcing.ipynb`
+- Testing: Run `util.test()` in `mu_Forcing.ipynb` 
+- Generating Run `model.generate()` in `mu_Forcing.ipynb` 
 
 ## Trained Model
 Download the trained models (with different mu values) from the following links:
@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/1LkRvhh1VvVCMSG89XkspZtDYnBz9eGuN
 ```
 
 ## Dataset
-- The APRC dataset can be found in Data/APRC
-- The CMSC dataset can be found in Data/CSMC   
+- The APRC dataset can be found in `Data/APRC`
+- The CMSC dataset can be found in `Data/CSMC`   
 
-Using pickle.load() to load the dataset (X_indices.pkl) and the vocabulary (w2id_id2w.pkl)
+Using `pickle.load()` to load the dataset in `X_indices.pkl` and the vocabulary in `w2id_id2w.pkl`
