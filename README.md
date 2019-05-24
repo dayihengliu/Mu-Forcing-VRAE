@@ -27,5 +27,6 @@ https://drive.google.com/drive/folders/1LkRvhh1VvVCMSG89XkspZtDYnBz9eGuN
 
 ## Dataset
 - The APRC dataset can be found in Data/APRC
-- The CMSC dataset can be found in Data/CSMC
+- The CMSC dataset can be found in Data/CSMC   
+
 Using pickle.load() to load the dataset (X_indices.pkl) and the vocabulary (w2id_id2w.pkl)
