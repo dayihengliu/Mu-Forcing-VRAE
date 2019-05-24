@@ -1,7 +1,7 @@
-# Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation
+# mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation
 
 This repo contains the code and data of the following paper:
->**Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation**, ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019
+>**mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation**, ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019
 
 ## Dependencies
 
