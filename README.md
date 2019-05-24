@@ -11,10 +11,10 @@ This repo contains the code and data of the following paper:
 - Numpy
 
 ## Quick Start
-Run `mu_Forcing.ipynb` for 
+`mu_Forcing.ipynb`: 
 - Training: Run `util.fit(train_dir='Models/')` in `mu_Forcing.ipynb`
 - Testing: Run `util.test()` in `mu_Forcing.ipynb` 
-- Generating Run `model.generate()` in `mu_Forcing.ipynb` 
+- Generating: Run `model.generate()` in `mu_Forcing.ipynb` 
 
 ## Trained Model
 Download the trained models (with different mu values) from the following links:
