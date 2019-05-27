@@ -5,6 +5,8 @@ This repo contains the code and data of the following paper:
 ## Overview
 <p align="center"><img width="80%" src="1.png"/></p>  
 
+We propose an effective regularizer based approach to address the uninformative latent variables problem. The proposed method directly injects extra constraints on the posteriors of latent variables into the learning process of VRAE, which can flexibly and stably control the trade-off between the KL term and the reconstruction term, making the model learn dense and meaningful latent representations.
+
 ## Dependencies
 
 - Jupyter notebook 4.4.0
