@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="1.png"/></p>   
+<p align="center"><img width="80%" src="1.png"/></p>   
 
 # mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation
 This repo contains the code and data of the following paper:
