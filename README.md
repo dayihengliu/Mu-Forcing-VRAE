@@ -1,5 +1,5 @@
 # mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation
-
+<p align="center"><img width="60%" src="1.png"/></p>
 This repo contains the code and data of the following paper:
 >**mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation**, *Dayiheng Liu, Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*, ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1905.10072)
 
